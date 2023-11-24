@@ -34,7 +34,7 @@ class CalculatorApp:
         self.master.bind('<BackSpace>', lambda event: self.on_backspace())  # bind 'backspace'
 
     @staticmethod
-    def validate_entry(self, char): # validate entry
+    def validate_entry(char):  # validate entry
         return char.isdigit() or char in ['.', '+', '-', '*', '/']
 
     def create_widgets(self):
