@@ -35,17 +35,3 @@ We welcome contributions! If you encounter any issues, have feature requests, or
 4. Push to the branch: `git push origin feature_branch`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License]([LICENSE.md](https://github.com/Jefino9488/Simple-Calculator/blob/main/LICENSE)).
-
-## Contact Information
-
-For any questions or feedback, please contact:
-
-- [Jefino M Jacob]
-- [jefinojacob9488@gmail.com]
-
-**Tags:**
-- project
-- internship
